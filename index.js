@@ -1,7 +1,7 @@
 // link to page creation
 const generateHTML = require('./src/generateHTML');
 
-// link to team profiles
+// team profiles
 const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern'); 
@@ -13,7 +13,7 @@ const inquirer = require('inquirer');
 // team array
 const teamArray = []; 
 
-// inquirer to generate questions
+// start of manager prompts 
 const addManager = () => {
     return inquirer.prompt ([
         {
