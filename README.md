@@ -12,11 +12,11 @@ Upon launching the app, the user is asked to describe the first member of their 
 
 A screenshot showing an example user input is shown below:
 
-![Screenshot of user input](https://github.com/moreza66/Team-Profile-Generator/blob/main/image/website-demo.png)
+![](./image/Questions.jpg)
 
 When all information on the team member has been entered, the user is asked whether there are any more members they would like to add. If so, the user is asked the same questions about the new team member. If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html." A screenshot of an example team profile is shown below:
 
-![Screenshot of HTML output](https://github.com/RyanEllingson/Team-Profile-Generator/blob/master/assets/images/html-screenshot.JPG)
+![](./image/Deployed%20web%20Page.jpg)
 
 # Techniques and Technologies Used
 
