@@ -63,7 +63,7 @@ inquirer.prompt([
     {
         message: "Enter manager's office number?",
         type: "input",
-        name: "officeNumver",
+        name: "phoneNumber",
         // Add validation to make sure user entered the input
         validate: (answer) => {
             const isNumber = answer.match(/^[1-9]\d*$/);
